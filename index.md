@@ -1,91 +1,62 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Henrik Heggelund-Berg
+## Sivilingeniør i Kommunikasjonsteknologi
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+> [henrik.heggelund.berg@gmail.com](henrik.heggelund.berg@gmail.com)  
+> (+47) 901 12 521  
+> 05.01.1987
 
+------
 
-## Currently
+### Erfaring {#erfaring}
 
-Standing on the shoulders of giants
+* DIPS​ ​AS,​ ​Trondheim
+: *Systemutvikler*
+  __2016-nå__
+  Utvikling i .NET av modulær e-helseapplikasjon. C#, WPF, ASP.NET Core, microservices og Oracle står sentralt. Jobber både med UI, tjenester og databaseintegrasjon, og integrasjoner med tredjepartskomponenter, fra løsning til operativt produkt.
+  Sommer- og deltidsansatt i perioden 2014 - 2016. Jobber i team med 4 andre utviklere samt produkteier og kvalitetskonsulenter.
 
-### Specialized in
+* Kongsberg​ ​Seatex,​ ​Trondheim
+: *Utvikler (sommer/deltid)*
+  __2013-2014__
+  Sommer- og deltidsansatt. Utviklet analyse- og feilsøkingsverktøy for S-AIS/GPS i python.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* Bravida​ ​Installasjon,​ ​Tromsø
+: *Svakstrømstekniker*
+__2009-2011__
+  Adgangskontroll-, brann- og sikkerhetssystemer. ITV-anlegg, PA-systemer, fiberoptikk og datanettverk i nye og eksisterende bygg.
 
+------
 
-### Research interests
+### Utdanning {#utdanning}
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* NTNU,​ ​Trondheim
+: *Sivilingeniør i Kommunikasjonsteknologi*
+  __2011-2016__
+  Hovedprofil i nett, tjenester og applikasjoner. Masteroppgave var *“Self-Localization of Lego Trains in a Modular Framework”*. Gode resultater med gjennomsnittskarakter B. Medforfatter på *"Model-based Engineering and Spatiotemporal Analysis of Transport Systems"* publisert i *Evaluation of Novel Approaches to Software Engineering (2016)*
 
+* Relacom​ ​AS,​ ​Tromsø
+: *Fagbrev i Telekommunikasjonsmontørfaget*
+  __2006-2009__
+  Installasjon, feilretting og arbeid ute i stamnettet for telefoni og kabel-TV. Fiberoptikk og spredenett.
+  
+* Høgskolen​ ​i​ ​Tromsø,​ ​Tromsø — Forkurs for ingeniør
+  __2005-2006__
 
-## Education
+* Breivika​ ​videregående​ ​skole,​ ​Tromsø
+: *Elektronikk*
+  __2003-2005__
+  Grunnkurs elektro og videregående kurs 1 i elektronikk
 
-`1654-1660`
-__The King's School, Grantham.__
+------
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### Ferdigheter {#ferdigheter}
 
-- Sizar
+Analytisk problemløser. Læredyktig, fremoverlent og tilpasningsdyktig. Stødig på Linux.
 
-`1667 - death`
-__Trinity College, Cambridge__
+------
 
-- Fellow
+### Footer {#footer}
 
+Henrik Heggelund-Berg -- [henrik.heggelund.berg@gmail.com](henrik.heggelund.berg@gmail.com) -- (+47) 901 12 521
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+------
