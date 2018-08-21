@@ -5,6 +5,13 @@
 > (+47) 901 12 521  
 > 05.01.1987
 
+
+------
+
+### Ferdigheter {#ferdigheter}
+
+Analytisk problemløser. Læredyktig, fremoverlent og tilpasningsdyktig. Stødig på Linux.
+
 ------
 
 ### Erfaring {#erfaring}
@@ -46,9 +53,3 @@ __2009-2011__
 : *Elektronikk*
   __2003-2005__
   Grunnkurs elektro og videregående kurs 1 i elektronikk
-
-------
-
-### Ferdigheter {#ferdigheter}
-
-Analytisk problemløser. Læredyktig, fremoverlent og tilpasningsdyktig. Stødig på Linux.
