@@ -52,11 +52,3 @@ __2009-2011__
 ### Ferdigheter {#ferdigheter}
 
 Analytisk problemløser. Læredyktig, fremoverlent og tilpasningsdyktig. Stødig på Linux.
-
-------
-
-### Footer {#footer}
-
-Henrik Heggelund-Berg -- [henrik.heggelund.berg@gmail.com](henrik.heggelund.berg@gmail.com) -- (+47) 901 12 521
-
-------
