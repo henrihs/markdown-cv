@@ -46,7 +46,8 @@ __2009-2011__
   __2006-2009__
   Installasjon, feilretting og arbeid ute i stamnettet for telefoni og kabel-TV. Fiberoptikk og spredenett.
   
-* Høgskolen​ ​i​ ​Tromsø,​ ​Tromsø — Forkurs for ingeniør
+* Høgskolen​ ​i​ ​Tromsø,​ ​Tromsø
+: *Forkurs for ingeniør*
   __2005-2006__
 
 * Breivika​ ​videregående​ ​skole,​ ​Tromsø
