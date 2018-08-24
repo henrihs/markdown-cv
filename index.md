@@ -1,5 +1,5 @@
 # Henrik Heggelund-Berg
-## Sivilingeniør i Kommunikasjonsteknologi
+## MSc in Communication Technology
 
 > [henrik.heggelund.berg@gmail.com](henrik.heggelund.berg@gmail.com)  
 > (+47) 901 12 521  
@@ -8,49 +8,48 @@
 
 ------
 
-### Ferdigheter {#ferdigheter}
+### Skills
 
-Analytisk problemløser. Læredyktig, fremoverlent og tilpasningsdyktig. Stødig på Linux.
+Analytical problem solver. Eager to learn, forward leaning and adaptable. Comfortable in Linux.
 
 ------
 
-### Erfaring {#erfaring}
+### Experience
 
 * DIPS​ ​AS,​ ​Trondheim
-: *Systemutvikler*
-  __2016-nå__
-  Utvikling i .NET av modulær e-helseapplikasjon. C#, WPF, ASP.NET Core, microservices og Oracle står sentralt. Jobber både med UI, tjenester og databaseintegrasjon, og integrasjoner med tredjepartskomponenter, fra løsning til operativt produkt.
-  Sommer- og deltidsansatt i perioden 2014 - 2016. Jobber i team med 4 andre utviklere samt produkteier og kvalitetskonsulenter.
+: *Software engineer*
+  __2016-now__
+  Development in .NET of a modular e-health application. C#, WPF, ASP.NET core, microservices and Oracle are keywords. The work tasks are all over the stack from UI, services, database integration, integration of third party components to web server configuration, being involved in the process from solution design to operating product and maintenance. Member of a team with four other developers, in addition to the product owner and QA consultants.
 
 * Kongsberg​ ​Seatex,​ ​Trondheim
-: *Utvikler (sommer/deltid)*
+: *Software engineer (summer intern and part-time)*
   __2013-2014__
-  Sommer- og deltidsansatt. Utviklet analyse- og feilsøkingsverktøy for S-AIS/GPS i python.
+  Development of analysis- and troubleshooting tool for S-AIS/GPS data, in Python.
 
 * Bravida​ ​Installasjon,​ ​Tromsø
-: *Svakstrømstekniker*
+: *Technician*
 __2009-2011__
-  Adgangskontroll-, brann- og sikkerhetssystemer. ITV-anlegg, PA-systemer, fiberoptikk og datanettverk i nye og eksisterende bygg.
+  Access control-, fire-, security-, public address- and surveillance systems. Fibre optics and computer networking in new and existing buildings.
 
 ------
 
-### Utdanning {#utdanning}
+### Education
 
 * NTNU,​ ​Trondheim
-: *Sivilingeniør i Kommunikasjonsteknologi*
+: *MSc in Communication Technology*
   __2011-2016__
-  Hovedprofil i nett, tjenester og applikasjoner. Masteroppgave var *“Self-Localization of Lego Trains in a Modular Framework”*. Gode resultater med gjennomsnittskarakter B. Medforfatter på *"Model-based Engineering and Spatiotemporal Analysis of Transport Systems"* publisert i *Evaluation of Novel Approaches to Software Engineering (2016)*
+  Specialization in networks, services and applications. Master's thesis was *“Self-Localization of Lego Trains in a Modular Framework”*. Achieved good results with an average grade of B. Co-author of *"Model-based Engineering and Spatiotemporal Analysis of Transport Systems"* published in *Evaluation of Novel Approaches to Software Engineering (2016)*
 
 * Relacom​ ​AS,​ ​Tromsø
-: *Fagbrev i Telekommunikasjonsmontørfaget*
+: *Certificate of apprenticeship as Telecommunications technician*
   __2006-2009__
-  Installasjon, feilretting og arbeid ute i stamnettet for telefoni og kabel-TV. Fiberoptikk og spredenett.
-  
-* Høgskolen​ ​i​ ​Tromsø,​ ​Tromsø
-: *Forkurs for ingeniør*
+  Installation, troubleshooting and maintenance in aerial and ground cable systems for *DSL/telephony, cable TV and backbone fiberoptical networks. 
+
+* Tromsø University College
+: *Preparatory courses for engineering education*
   __2005-2006__
 
-* Breivika​ ​videregående​ ​skole,​ ​Tromsø
-: *Elektronikk*
+* Breivika​ High School,​ ​Tromsø
+: *Electronics*
   __2003-2005__
-  Grunnkurs elektro og videregående kurs 1 i elektronikk
+  Basic course in electrical science, advanced course in electronics.
