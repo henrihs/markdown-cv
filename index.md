@@ -16,10 +16,23 @@ Analytical problem solver. Eager to learn, forward leaning and adaptable. Comfor
 
 ### Experience
 
+* Indusenz AS, Trondheim
+: *Lead Software Engineer*
+  __2020-present__
+  End-to-end responsibility for building and operating a cloud-native IoT and data analytics platform on Google Cloud, combined with ownership of company-wide information security and secure software delivery.
+  - Designed and developed scalable IoT and time-series data platforms
+  - Built backend services and APIs in Go, Kotlin, and TypeScript; frontends in React and Flutter
+  - 	Implemented data pipelines and analytics using BigQuery, Dataform, and Apache Beam/Dataflow
+  - Defined and maintained infrastructure as code with Pulumi and containerized workloads with Docker/Jib
+  - Acted as CISO, owning and enforcing security strategy, IAM, risk management, and secure SDLC
+  - Implemented vulnerability management and SAST (Dependabot, Snyk, Semgrep) and enforced customer security requirements
+
+  Technologies: GCP, BigQuery, Cloud Run, Go, Kotlin, TypeScript, React, Flutter, Docker, Pulumi, IoT/MQTT
+
 * DIPS​ ​AS,​ ​Trondheim
 : *Software engineer*
-  __2016-now__
-  Development in .NET of a modular e-health application. C#, WPF, ASP.NET core, microservices and Oracle are keywords. The work tasks are all over the stack from UI, services, database integration, integration of third party components to web server configuration, being involved in the process from solution design to operating product and maintenance. Member of a team with four other developers, in addition to the product owner and QA consultants.
+  __2016-2020__
+  Development in .NET of a modular e-health application. C#, WPF, ASP.NET core, microservices and Oracle are keywords. Worked all over the stack from UI, services, database integration, integration of third party components to web server configuration, being involved in the process from solution design to operating product and maintenance. Member of a team with four other developers, in addition to the product owner and QA consultants.
 
 * Kongsberg​ ​Seatex,​ ​Trondheim
 : *Software engineer (summer intern and part-time)*
