@@ -1,68 +1,69 @@
 # Henrik Heggelund-Berg
-## MSc in Communication Technology
+## Lead Software Engineer & CISO · MSc in Communication Technology
 
-> [henrik.heggelund.berg@gmail.com](henrik.heggelund.berg@gmail.com)  
+> [henrik.heggelund.berg@gmail.com](mailto:henrik.heggelund.berg@gmail.com)  
 > (+47) 901 12 521  
-> 05.01.1987
-
+> Norwegian (native), English (fluent)  
+> Born 1987
 
 ------
 
-### Skills
+### Profile
 
-Analytical problem solver. Eager to learn, forward leaning and adaptable. Comfortable in Linux.
+~10 years of professional software engineering experience, including 6 years owning a cloud-native platform end-to-end. Builds and operates IoT and data analytics systems on Google Cloud, and acts as CISO with responsibility for security strategy, secure SDLC, and customer compliance. Comfortable across the full stack — from architecture and infrastructure-as-code to production operations and stakeholder communication.
+
+------
+
+### Core skills
+
+**Cloud & platform** — Google Cloud (Cloud Run, BigQuery, Dataflow, Pub/Sub, Compute Engine, ), Docker, Pulumi (IaC)  
+**Languages** — Go, Kotlin, TypeScript, C#/.NET, Python  
+**Frontend & web** — React, WPF, Hugo (static sites), HTML
+**Data & analytics** — SQL, ELT/ETLDataform, Apache Beam/Dataflow, time-series, IoT/MQTT  
+**Security** — CISO/governance, IAM, secure SDLC, SAST and dependency scanning (Snyk, Semgrep, Dependabot), vulnerability management, customer security requirements, network security
+**Tooling** — Linux, Git, microservices, REST/gRPC
 
 ------
 
 ### Experience
 
 * Indusenz AS, Trondheim
-: *Lead Software Engineer*
+: *Lead Software Engineer & CISO*
   __2020-present__
   End-to-end responsibility for building and operating a cloud-native IoT and data analytics platform on Google Cloud, combined with ownership of company-wide information security and secure software delivery.
-  - Designed and developed scalable IoT and time-series data platforms
+  - Architected and delivered and operated the company's IoT and time-series data platform on GCP
   - Built backend services and APIs in Go, Kotlin, and TypeScript; frontends in React and Flutter
-  - 	Implemented data pipelines and analytics using BigQuery, Dataform, and Apache Beam/Dataflow
+  - Implemented data pipelines and analytics using BigQuery, Dataform, and Apache Beam/Dataflow
   - Defined and maintained infrastructure as code with Pulumi and containerized workloads with Docker/Jib
-  - Acted as CISO, owning and enforcing security strategy, IAM, risk management, and secure SDLC
-  - Implemented vulnerability management and SAST (Dependabot, Snyk, Semgrep) and enforced customer security requirements
+  - Established and ran the company's security program as CISO — security strategy, IAM, risk management, secure SDLC, and customer security/compliance, enabling sales to security-conscious enterprise customers
+  - Implemented vulnerability management and SAST tooling (Dependabot, Snyk, Semgrep)
+  - Built and maintained the company's public landing page as a static site with Hugo
 
-  Technologies: GCP, BigQuery, Cloud Run, Go, Kotlin, TypeScript, React, Flutter, Docker, Pulumi, IoT/MQTT
+  Technologies: GCP, BigQuery, Cloud Run, Go, Kotlin, TypeScript, React, Flutter, Hugo, Docker, Pulumi, IoT/MQTT
 
-* DIPS​ ​AS,​ ​Trondheim
-: *Software engineer*
+* DIPS AS, Trondheim
+: *Software Engineer*
   __2016-2020__
-  Development in .NET of a modular e-health application. C#, WPF, ASP.NET core, microservices and Oracle are keywords. Worked all over the stack from UI, services, database integration, integration of third party components to web server configuration, being involved in the process from solution design to operating product and maintenance. Member of a team with four other developers, in addition to the product owner and QA consultants.
+  Full-stack development of a modular e-health application used across Norwegian hospitals. Worked across the stack — from WPF desktop UI and ASP.NET Core microservices to Oracle database integration, third-party component integration, and web server configuration — and across the lifecycle from solution design to production operations and maintenance. Member of a cross-functional team of five developers, a product owner, and QA consultants.
 
-* Kongsberg​ ​Seatex,​ ​Trondheim
-: *Software engineer (summer intern and part-time)*
+  Technologies: C#, .NET (Core and Framework), Oracle, microservices
+
+* Kongsberg Seatex, Trondheim
+: *Software Engineer (summer intern and part-time)*
   __2013-2014__
-  Development of analysis- and troubleshooting tool for S-AIS/GPS data, in Python.
-
-* Bravida​ ​Installasjon,​ ​Tromsø
-: *Technician*
-__2009-2011__
-  Access control-, fire-, security-, public address- and surveillance systems. Fibre optics and computer networking in new and existing buildings.
+  Developed an analysis and troubleshooting tool for S-AIS/GPS data in Python.
 
 ------
 
 ### Education
 
-* NTNU,​ ​Trondheim
+* NTNU, Trondheim
 : *MSc in Communication Technology*
   __2011-2016__
-  Specialization in networks, services and applications. Master's thesis was *“Self-Localization of Lego Trains in a Modular Framework”*. Achieved good results with an average grade of B. Co-author of *"Model-based Engineering and Spatiotemporal Analysis of Transport Systems"* published in *Evaluation of Novel Approaches to Software Engineering (2016)*
+  Specialization in networks, services, and applications. Master's thesis: *"Self-Localization of Lego Trains in a Modular Framework"*. Graduated with a B average. Co-author of *"Model-based Engineering and Spatiotemporal Analysis of Transport Systems"*, published in *Evaluation of Novel Approaches to Software Engineering (2016)*.
 
-* Relacom​ ​AS,​ ​Tromsø
-: *Certificate of apprenticeship as Telecommunications technician*
+* Relacom AS, Tromsø
+: *Certificate of Apprenticeship as Telecommunications Technician*
   __2006-2009__
-  Installation, troubleshooting and maintenance in aerial and ground cable systems for *DSL/telephony, cable TV and backbone fiberoptical networks. 
+  Installation, troubleshooting, and maintenance of aerial and ground cable systems for DSL/telephony, cable TV, and backbone fibre-optic networks.
 
-* Tromsø University College
-: *Preparatory courses for engineering education*
-  __2005-2006__
-
-* Breivika​ High School,​ ​Tromsø
-: *Electronics*
-  __2003-2005__
-  Basic course in electrical science, advanced course in electronics.
