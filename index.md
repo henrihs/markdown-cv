@@ -17,10 +17,15 @@
 ### Core skills
 
 **Cloud & platform:** Google Cloud (Cloud Run, BigQuery, Dataflow, Pub/Sub, Compute Engine), Docker, Pulumi (IaC)  
+
 **Languages:** Go, Kotlin, TypeScript, C#/.NET, Python  
+
 **Frontend & web:** React, WPF, Hugo (static sites), HTML
+
 **Data & analytics:** SQL, ELT/ETL (Dataform, Apache Beam/Dataflow), time-series, visualization, IoT/MQTT  
+
 **Security:** CISO/governance, IAM, secure SDLC, SAST/DAST, vulnerability management, customer security requirements, network and web security
+
 **Tooling:** Linux, Git, microservices, REST/gRPC
 
 ------
