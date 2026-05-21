@@ -10,18 +10,18 @@
 
 ### Profile
 
-~10 years of professional software engineering experience, including 6 years owning a cloud-native platform end-to-end. Builds and operates IoT and data analytics systems on Google Cloud, and acts as CISO with responsibility for security strategy, secure SDLC, and customer compliance. Comfortable across the full stack — from architecture and infrastructure-as-code to production operations and stakeholder communication.
+~10 years of professional software engineering experience, including 6 years owning a cloud-native platform end-to-end. Builds and operates IoT and data analytics systems on Google Cloud, and acts as CISO with responsibility for security strategy, secure SDLC, and customer compliance. Comfortable across the full stack, from architecture and infrastructure-as-code to production operations and stakeholder communication.
 
 ------
 
 ### Core skills
 
-**Cloud & platform** — Google Cloud (Cloud Run, BigQuery, Dataflow, Pub/Sub, Compute Engine, ), Docker, Pulumi (IaC)  
-**Languages** — Go, Kotlin, TypeScript, C#/.NET, Python  
-**Frontend & web** — React, WPF, Hugo (static sites), HTML
-**Data & analytics** — SQL, ELT/ETLDataform, Apache Beam/Dataflow, time-series, IoT/MQTT  
-**Security** — CISO/governance, IAM, secure SDLC, SAST and dependency scanning (Snyk, Semgrep, Dependabot), vulnerability management, customer security requirements, network security
-**Tooling** — Linux, Git, microservices, REST/gRPC
+**Cloud & platform:** Google Cloud (Cloud Run, BigQuery, Dataflow, Pub/Sub, Compute Engine), Docker, Pulumi (IaC)  
+**Languages:** Go, Kotlin, TypeScript, C#/.NET, Python  
+**Frontend & web:** React, WPF, Hugo (static sites), HTML
+**Data & analytics:** SQL, ELT/ETL (Dataform, Apache Beam/Dataflow), time-series, visualization, IoT/MQTT  
+**Security:** CISO/governance, IAM, secure SDLC, SAST/DAST, vulnerability management, customer security requirements, network and web security
+**Tooling:** Linux, Git, microservices, REST/gRPC
 
 ------
 
@@ -32,8 +32,8 @@
   __2020-present__
   End-to-end responsibility for building and operating a cloud-native IoT and data analytics platform on Google Cloud, combined with ownership of company-wide information security and secure software delivery.
   - Architected and delivered and operated the company's IoT and time-series data platform on GCP
-  - Built backend services and APIs in Go, Kotlin, and TypeScript; frontends in React and Flutter
-  - Implemented data pipelines and analytics using BigQuery, Dataform, and Apache Beam/Dataflow
+  - Built backend services and APIs in Go and Kotlin; frontends in TypeScript/React and Flutter
+  - Implemented data pipelines and analytics using BigQuery, Dataform, and Apache Beam/Dataflow. Exploratory data analysis and prototyping in Python and DuckDB
   - Defined and maintained infrastructure as code with Pulumi and containerized workloads with Docker/Jib
   - Established and ran the company's security program as CISO — security strategy, IAM, risk management, secure SDLC, and customer security/compliance, enabling sales to security-conscious enterprise customers
   - Implemented vulnerability management and SAST tooling (Dependabot, Snyk, Semgrep)
